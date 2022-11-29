@@ -1,4 +1,4 @@
-<h1 align="center"> 🍿   Cinephile App 🍿  </h1>
+<h1 align="center"> 🍿   CINEPHILE App 🍿  </h1>
 <h1 align="center">🎬  Little Design Movie App Using IMDB API Call   🎬 </h1>
 
 
